@@ -26,7 +26,5 @@ Web Entegrasyonu: Eğitilen modelleri Streamlit ile web uygulamasına dönüşt�
 Kullanılan Teknolojiler: Python, Pandas, Scikit-Learn, XGBoost, Streamlit.
 Dilerseniz, test amacıyla hazırladığım web sitesini inceleyerek deneyebilirsiniz.
 
-
-https://github.com/mustafa-alpergun/Patient_Blood_Trend_Analysis_and_Risk_Prediction
 Kodları incelemek ve geliştirme önerilerinizi paylaşmak isterseniz geri bildirimleriniz benim için çok değerli!
 Yazar: Mustafa Alpergün
